@@ -1,2 +1,1 @@
-//First line of a.js
-//Second line. 
+//Second line.
